@@ -1,7 +1,5 @@
 # Luneta · Documentação pública
 
-![Luneta](assets/logo.png)
-
 **De longe, o edital. De perto, a prova.**
 
 A Luneta é uma plataforma web que lê editais de fomento à pesquisa, extrai as regras de cada edital e mostra, ao lado de cada regra, o **trecho literal do documento oficial que a comprova**. Quando não encontra o trecho, marca a informação como **não confirmada**.

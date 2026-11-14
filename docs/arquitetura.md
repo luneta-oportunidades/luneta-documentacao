@@ -15,12 +15,12 @@ O caminho de cada regra, do edital até a tela, tem cinco etapas e uma entrega.
 
 ## Módulos de extração
 
-| Módulo | O que extrai | Selo no site |
+| Módulo | O que extrai | Estado |
 |---|---|---|
-| Quem pode participar | Papéis, requisitos e exclusões, com a quem cada regra se aplica | Extração oficial |
-| Visão geral | Objetivo, temas e abrangência geográfica | Em validação |
-| Quando agir | Datas fixas e prazos relativos, sem inventar datas | Em validação |
-| O que oferece | Valor acessível ao candidato, duração, contrapartida e usos permitidos | Experimental |
+| Quem pode participar | Papéis, requisitos e exclusões, com a quem cada regra se aplica | Funcionando |
+| Visão geral | Objetivo, temas e abrangência geográfica | Funcionando |
+| Quando agir | Datas fixas e prazos relativos, sem inventar datas | Funcionando |
+| O que oferece | Valor acessível ao candidato, duração, contrapartida e usos permitidos | Funcionando |
 
 ## Princípios
 

@@ -15,4 +15,4 @@ Para pesquisadores, docentes e estudantes de pós-graduação. O uso é gratuito
 
 ## Limitações conhecidas
 
-Regras espalhadas em anexos e tabelas complexas ainda são mais difíceis de extrair. Prazos relativos, como "60 dias após o resultado", nem sempre dizem se os dias são úteis ou corridos, e nesse caso o site mostra o texto original sem calcular a data. Retificações publicadas depois do edital podem demorar a aparecer. A análise de valores e contrapartidas é experimental.
+Regras espalhadas em anexos e tabelas complexas ainda são mais difíceis de extrair. Prazos relativos, como "60 dias após o resultado", nem sempre dizem se os dias são úteis ou corridos, e nesse caso o site mostra o texto original sem calcular a data. Retificações publicadas depois do edital podem demorar a aparecer.
